@@ -1,5 +1,3 @@
-# Project1-2
-
 
 # วิจัยที่เกี่ยวข้อง
 
@@ -27,3 +25,7 @@ https://github.com/CMU-Perceptual-Computing-Lab/openpose
 
 ## # Pattern Recognition
 [Pattern Recognition](https://www.youtube.com/watch?v=mhtxOL_IynQ&index=2&list=PLcBOyD1N1T-OQd0a6mqjY6gWOuIl_stuv&t=0s "Pattern Recognition")
+
+## Test
+
+https://www.youtube.com/watch?v=d357v27_OeY
