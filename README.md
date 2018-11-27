@@ -3,10 +3,8 @@
 
 [ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf "ImageNet Classification with Deep Convolutional Neural Networks")
 
-[Parameter estimation in deep learning
-& Markov random fields]
-(http://www.robots.ox.ac.uk/~seminars/seminars/Extra/2014_02_10_NandoDeFreitas.pdf"Parameter estimation in deep learning
-& Markov random fields")
+[Parameter estimation in deep learning & Markov random fields](http://www.robots.ox.ac.uk/~seminars/seminars/Extra/2014_02_10_NandoDeFreitas.pdf "Parameter estimation in deep learning & Markov random fields")
+
 # แหล่งข้อมูลเพิ่มเติม
 
  ### Data Mining
