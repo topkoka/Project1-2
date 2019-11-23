@@ -1,4 +1,11 @@
 
+# Project
+[OpenWorkOut](https://github.com/topkoka/OpenWorkOut "OpenWorkOut")
+ื# New 
+    241119.01 ทำรูปเล่ม 1-5 + ภาคผนวกเสร็จรอตรวจ
+
+    
+
 # วิจัยที่เกี่ยวข้อง
 
 [ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf "ImageNet Classification with Deep Convolutional Neural Networks")
